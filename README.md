@@ -7,4 +7,6 @@ Here are some links!
 - [Twitter](https://twitter.com/Liam_Padraic_)
 - [YouTube Channel](https://www.youtube.com/channel/UCgAwUISxj-MAeuexmoryvfQ/featured)
 
+Here's a test link to my comedy page: [bam](/comedy)
+
 
